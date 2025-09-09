@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\atividade eletiva\teste\functionsmath\obj\Debug\net8.0\functionsmath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\atividade eletiva\teste\functionsmath\obj\Debug\net8.0\functionsmath.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\atividade eletiva\teste\functionsmath\obj\Debug\net8.0\functionsmath.AssemblyInfo.cs
+C:\Users\aluno\Desktop\atividade eletiva\teste\functionsmath\obj\Debug\net8.0\functionsmath.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\atividade eletiva\teste\functionsmath\obj\Debug\net8.0\functionsmath.sourcelink.json
+C:\Users\aluno\Desktop\atividade eletiva\teste\functionsmath\bin\Debug\net8.0\functionsmath.exe
+C:\Users\aluno\Desktop\atividade eletiva\teste\functionsmath\bin\Debug\net8.0\functionsmath.deps.json
+C:\Users\aluno\Desktop\atividade eletiva\teste\functionsmath\bin\Debug\net8.0\functionsmath.runtimeconfig.json
+C:\Users\aluno\Desktop\atividade eletiva\teste\functionsmath\bin\Debug\net8.0\functionsmath.dll
+C:\Users\aluno\Desktop\atividade eletiva\teste\functionsmath\bin\Debug\net8.0\functionsmath.pdb
+C:\Users\aluno\Desktop\atividade eletiva\teste\functionsmath\obj\Debug\net8.0\functionsmath.dll
+C:\Users\aluno\Desktop\atividade eletiva\teste\functionsmath\obj\Debug\net8.0\refint\functionsmath.dll
+C:\Users\aluno\Desktop\atividade eletiva\teste\functionsmath\obj\Debug\net8.0\functionsmath.pdb
+C:\Users\aluno\Desktop\atividade eletiva\teste\functionsmath\obj\Debug\net8.0\functionsmath.genruntimeconfig.cache
+C:\Users\aluno\Desktop\atividade eletiva\teste\functionsmath\obj\Debug\net8.0\ref\functionsmath.dll
